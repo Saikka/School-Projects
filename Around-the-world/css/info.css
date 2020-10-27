@@ -1,0 +1,189 @@
+body {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    background-size: 130px 100px;
+    color: darkblue;
+}
+
+#page {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+#root {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 1px solid darkblue;
+    box-shadow: 2px 2px 2px darkblue;
+    overflow: auto;
+}
+
+#navigator {
+    width: 100%;
+    height: 30px;
+}
+
+#buttons {
+    float: left;
+    margin-left: 7%;
+    width: 180px;
+}
+
+#nav {
+    max-width: 400px;
+    height: 30px;
+    float: left;
+}
+
+#nav ul {
+    width: 100%;
+    margin: 0;
+    display: block;
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav a {
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#nav a:hover, #cv a:active {
+    text-decoration: underline;
+}
+
+#head {
+    margin:0;
+    height: 100px;
+}
+
+#glob {
+    margin-left: 25%;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+nav {
+    margin: 0;
+    height: 50px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+nav ul {
+    height: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+nav li {
+    display: inline-block;
+    height: 100%;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+nav a {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    color: white;
+    height: 100%;
+    text-decoration: none;
+}
+
+nav a:hover, #nav a:active {
+    background-color: deepskyblue;
+}
+
+h1  {
+    width: 100%;
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+#cities {
+    float: left;
+}
+
+#cities caption {
+    text-align: left;
+}
+
+.images {
+    width: 200px;
+    height: 150px;
+}
+
+#flag {
+    width: 250px;
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+#country {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info {
+    border-top: solid 2px darkblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#info td {
+    text-align: center;
+}
+
+tr #tdname {
+    width: 100px;
+}
+
+#empty {
+    height: 50px;
+    background-color: aliceblue;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+    border-radius: 12px;
+    border: 2px solid darkblue;
+    background-color: lightcyan;
+    color: darkblue;
+    font-size: 16px;
+    margin: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover {
+    color: white;
+    background-color: deepskyblue;
+}

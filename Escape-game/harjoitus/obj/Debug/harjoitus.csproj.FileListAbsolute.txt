@@ -1,0 +1,69 @@
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\bin\Debug\harjoitus.exe.config
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\bin\Debug\harjoitus.exe
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\bin\Debug\harjoitus.pdb
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus.csprojResolveAssemblyReference.cache
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\App.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus_MarkupCompile.cache
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus.g.resources
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus.Properties.Resources.resources
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus.csproj.GenerateResource.Cache
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus.exe
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus.pdb
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\MainWindow.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\MainWindow.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone1.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus_MarkupCompile.lref
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone1.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone2.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone2.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\UusiPeli.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\UusiPeli.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone3.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone3.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone4.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone5.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone4.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\huone5.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\PelinLopetus.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\PelinLopetus.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\App.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\harjoitus_Content.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\pelinHavitys.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\pelinHavitys.baml
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\tauko.g.cs
+D:\Katia\Olio ohjelmointi\harjoitus\harjoitus\obj\Debug\View\tauko.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\bin\Debug\harjoitus.exe.config
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\bin\Debug\harjoitus.exe
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\bin\Debug\harjoitus.pdb
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.csprojAssemblyReference.cache
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone1.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone2.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone3.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone4.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone5.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\MainWindow.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\pelinHavitys.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\PelinLopetus.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\tauko.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\UusiPeli.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\App.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus_Content.g.cs
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus_MarkupCompile.cache
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus_MarkupCompile.lref
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\App.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone1.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone2.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone3.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone4.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\huone5.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\MainWindow.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\pelinHavitys.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\PelinLopetus.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\tauko.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\View\UusiPeli.baml
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.g.resources
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.Properties.Resources.resources
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.csproj.GenerateResource.cache
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.csproj.CoreCompileInputs.cache
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.exe
+D:\Katia\Opintojaksot\2\c-sharp\harjoitus\harjoitus\obj\Debug\harjoitus.pdb

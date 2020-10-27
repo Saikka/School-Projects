@@ -1,0 +1,505 @@
+{
+"Europe":
+  [
+    {
+        "index":0,
+        "name":"Finland",
+        "code":"FI",
+        "capital":"Helsinki",
+        "image":"finland.jpg",
+        "animal":"Swan",
+        "flower":"Lily of the Valley",
+        "cities": ["Helsinki", "Espoo", "Tampere", "Vantaa", "Oulu"]
+    },
+    
+    {
+        "index":1,
+        "name":"France",
+        "code":"FR",
+        "capital":"Paris",
+        "image":"france.jpg",
+        "animal":"Rooster",
+        "flower":"Lilium",
+        "cities": ["Paris", "Lyon", "Marseille", "Lille", "Toulouse"]
+    },
+ 
+    {
+        "index":2,
+        "name":"Sweden",
+        "code":"SE",
+        "capital":"Stockholm",
+        "image":"sweden.jpg",
+        "animal":"Elk",
+        "flower":"No",
+        "cities": ["Stockholm", "Malmö", "Uppsala", "Västerås", "Örebro"]
+    },
+      
+    {
+        "index":3,
+        "name":"Russia",
+        "code":"RU",
+        "capital":"Moskow",
+        "image":"russia.jpg",
+        "animal":"Bear",
+        "flower":"Chamomile",
+        "cities": ["Moskow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan"]
+    },
+    
+    {
+        "index":4,
+        "name":"Germany",
+        "code":"DE",
+        "capital":"Berlin",
+        "image":"germany.jpg",
+        "animal":"Eagle",
+        "flower":"Knapweed",
+        "cities": ["Berlin", "Hamburg", "Munich", "Frankfurt", "Stuttgart"]
+    },
+      {
+        "index":5,
+        "name":"Denmark",
+        "code":"DK",
+        "capital":"Copenhagen",
+        "image":"denmark.jpg",
+        "animal":"Mute swan",
+        "flower":"Marguerite Daisy",
+        "cities": ["Copenhagen", "Aarhus", "Odense", "Aalborg", "Esbjerg"]
+    },
+    
+    {
+        "index":6,
+        "name":"Greece",
+        "code":"GR",
+        "capital":"Athens",
+        "image":"greece.jpg",
+        "animal":"Dolphin",
+        "flower":"Bear's Breech",
+        "cities": ["Athens", "Thessaloniki", "Patras", "Heraklion", "Larissa"]
+    },
+ 
+    {
+        "index":7,
+        "name":"Iceland",
+        "code":"IS",
+        "capital":"Reykjavík",
+        "image":"iceland.jpg",
+        "animal":"Gyrfalcon",
+        "flower":"White Dryas",
+        "cities": ["Reykjavík", "Kopavogur", "Hafnarfjörour", "Akureyri", "Reykjanesbær"]
+    },
+      
+    {
+        "index":8,
+        "name":"Italy",
+        "code":"IT",
+        "capital":"Rome",
+        "image":"italy.jpg",
+        "animal":"Wolf",
+        "flower":"Stylized Lily",
+        "cities": ["Rome", "Milan", "Naples", "Turin", "Palermo"]
+    },
+    
+    {
+        "index":9,
+        "name":"Norway",
+        "code":"NO",
+        "capital":"Oslo",
+        "image":"norway.jpg",
+        "animal":"Fjord horse",
+        "flower":"Purple Heather",
+        "cities": ["Oslo", "Bergen", "Stavanger", "Trondheim", "Drammen"]
+    },
+      {
+        "index":10,
+        "name":"Poland",
+        "code":"PL",
+        "capital":"Warsaw",
+        "image":"poland.jpg",
+        "animal":"Bison",
+        "flower":"Corn Poppy",
+        "cities": ["Warsaw", "Krakow", "Łodz", "Wrocław", "Poznan"]
+    },
+    
+    {
+        "index":11,
+        "name":"Portugal",
+        "code":"PT",
+        "capital":"Lisbon",
+        "image":"portugal.jpg",
+        "animal":"Iberian wolf",
+        "flower":"Lavender",
+        "cities": ["Lisbon", "Porto", "Amadora", "Braga", "Funchal"]
+    },
+ 
+    {
+        "index":12,
+        "name":"Spain",
+        "code":"ES",
+        "capital":"Madrid",
+        "image":"spain.jpg",
+        "animal":"Bull",
+        "flower":"Red carnation",
+        "cities": ["Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza"]
+    },
+      
+    {
+        "index":13,
+        "name":"Switzeland",
+        "code":"CH",
+        "capital":"Bern",
+        "image":"switzeland.jpg",
+        "animal":"No",
+        "flower":"Edelweiss",
+        "cities": ["Zürich", "Geneva", "Basel", "Lausanne", "Bern"]
+    },
+    
+    {
+        "index":14,
+        "name":"United Kingdom",
+        "code":"GB",
+        "capital":"London",
+        "image":"unitedKingdom.jpg",
+        "animal":"Bulldog",
+        "flower":"Tudor rose",
+        "cities": ["London", "Birmingham", "Leeds", "Glasgow", "Sheffield"]
+    } 
+  ],
+    
+"Asia":
+  [
+    {
+        "index":0,
+        "name":"Japan",
+        "code":"JP",
+        "capital":"Tokyo",
+        "image":"japan.jpg",
+        "animal":"Carp",
+        "flower":"Cherry's flower",
+        "cities": ["Tokyo", "Yokohama", "Osaka", "Nagoya", "Sapporo"]
+    },
+    
+    {
+        "index":1,
+        "name":"China",
+        "code":"CN",
+        "capital":"Beijing",
+        "image":"china.jpg",
+        "animal":"Panda",
+        "flower":"Plum blossom",
+        "cities": ["Shanghai", "Beijing", "Chongqing", "Guangzhou", "Shenzhen"]
+    },
+ 
+    {
+        "index":2,
+        "name":"India",
+        "code":"IN",
+        "capital":"Delhi",
+        "image":"india.jpg",
+        "animal":"Bengal tiger",
+        "flower":"Lotus",
+        "cities": ["Mumbai", "Delhi", "Bangalore", "Hyderabad", "Chennai"]
+    },
+      
+    {
+        "index":3,
+        "name":"South Korea",
+        "code":"KR",
+        "capital":"Seoul",
+        "image":"southKorea.jpg",
+        "animal":"Siberian tiger",
+        "flower":"Rose of Sharon",
+        "cities": ["Seoul", "Busan", "Daegu", "Incheon", "Gwangju"]
+    },
+      
+    {
+        "index":4,
+        "name":"Mongolia",
+        "code":"MN",
+        "capital":"Ulaanbaatar",
+        "image":"mongolia.jpg",
+        "animal":"Horse",
+        "flower":"Scabiosa Butterfly Blue",
+        "cities": ["Ulaanbaatar", "Erdenet", "Darkhan", "Choibalsan", "Mörön"]
+    },
+      
+    {
+        "index":5,
+        "name":"Kazakhstan",
+        "code":"KZ",
+        "capital":"Astana",
+        "image":"kazakhstan.jpg",
+        "animal":"Golden eagle",
+        "flower":"Lily",
+        "cities": ["Almaty", "Astana", "Shymkent", "Karaganda", "Aktobe"]
+    },
+      
+    {
+        "index":6,
+        "name":"Vietnam",
+        "code":"VN",
+        "capital":"Hà Nội",
+        "image":"vietnam.jpg",
+        "animal":"Tiger",
+        "flower":"Red Lotus",
+        "cities": ["Hồ Chí Minh", "Hà Nội", "Hải Phòng", "Cần Thơ", "Đà Nẵng"]
+    },
+      
+    {
+        "index":7,
+        "name":"North Korea",
+        "code":"KP",
+        "capital":"Pyongyang",
+        "image":"northKorea.jpg",
+        "animal":"Chollima",
+        "flower":"Magnolia Sieboldii",
+        "cities": ["Pyongyang", "Hamhung", "Chongjin", "Nampo", "Wonsan"]
+    },
+      
+    {
+        "index":8,
+        "name":"Indonesia",
+        "code":"ID",
+        "capital":"Jakarta",
+        "image":"indonesia.jpg",
+        "animal":"Komodo Dragon",
+        "flower":"Jasmine",
+        "cities": ["Jakarta", "Surabaya", "Bekasi", "Bandung", "Medan"]
+    },
+      
+    {
+        "index":9,
+        "name":"Israel",
+        "code":"IL",
+        "capital":"Jerusalem",
+        "image":"israel.jpg",
+        "animal":"Gazelle",
+        "flower":"No",
+        "cities": ["Jerusalem", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva"]
+    },
+      
+    {
+        "index":10,
+        "name":"Philippines",
+        "code":"PH",
+        "capital":"Manila",
+        "image":"philippines.jpg",
+        "animal":"Carabao",
+        "flower":"Sampaguita",
+        "cities": ["Quezon City", "Manila", "Davao City", "Caloocan", "Cebu City"]
+    },
+      
+    {
+        "index":11,
+        "name":"Saudi Arabia",
+        "code":"SA",
+        "capital":"Riyadh",
+        "image":"saudiArabia.jpg",
+        "animal":"Camel",
+        "flower":"No",
+        "cities": ["Riyadh", "Jeddah", "Mecca", "Medina", "Al-Ahsa"]
+    },
+      
+    {
+        "index":12,
+        "name":"Maldives",
+        "code":"MV",
+        "capital":"Malé",
+        "image":"maldives.jpg",
+        "animal":"Yellowfin tuna",
+        "flower":"Pinkrose",
+        "cities": ["Malé", "Fuvahmulah", "Hithadhoo", "Kulhudhuffushi", "Thinadhoo"]
+    },
+      
+    {
+        "index":13,
+        "name":"Bangladesh",
+        "code":"BD",
+        "capital":"Dhaka",
+        "image":"bangladesh.jpg",
+        "animal":"King Bengal tiger",
+        "flower":"Water Lily",
+        "cities": ["Dhaka", "Chittagong", "Khulna", "Sylhet", "Rajshahi"]
+    },
+      
+    {
+        "index":14,
+        "name":"Thailand",
+        "code":"TH",
+        "capital":"Bangkok",
+        "image":"thailand.jpg",
+        "animal":"Elephant",
+        "flower":"Ratchaphruek",
+        "cities": ["Bangkok", "Nonthaburi", "Pak Kret", "Hat Yai", "Nakhon Ratchasima"]
+    }
+
+  ],
+    
+"Africa":
+    [
+       {
+        "index":0,
+        "name":"Cameroon",
+        "code":"CM",
+        "capital":"Yaounde",
+        "image":"cameroon.jpg",
+        "animal":"Lion",
+        "flower":"Red Stinkwood",
+        "cities": ["Douala", "Yaounde", "Garoua", "Kousseri", "Bamenda"]
+    },
+    
+    {
+        "index":1,
+        "name":"Nigeria",
+        "code":"NG",
+        "capital":"Abuja",
+        "image":"nigeria.jpg",
+        "animal":"Black Crowned Crane",
+        "flower":"Costus",
+        "cities": ["Lagos", "Kano", "Ibadan", "Benin City", "Jos"]
+    },
+ 
+    {
+        "index":2,
+        "name":"Zimbabwe",
+        "code":"ZW",
+        "capital":"Harare",
+        "image":"zimbabwe.jpg",
+        "animal":"Sable Antelope",
+        "flower":"Flame Lily",
+        "cities": ["Harare", "Bulawayo", "Chitungwiza", "Mutare", "Epworth"]
+    },
+      
+    {
+        "index":3,
+        "name":"Ghana",
+        "code":"GH",
+        "capital":"Accra",
+        "image":"ghana.jpg",
+        "animal":"Tawny Eagle",
+        "flower":"no",
+        "cities": ["Accra", "Kumasi", "Sekondi-Takoradi", "Sunyani", "Tamale"]
+    },
+      
+    {
+        "index":4,
+        "name":"Egypt",
+        "code":"EG",
+        "capital":"Cairo",
+        "image":"egypt.jpg",
+        "animal":"Steppe eagle",
+        "flower":"Egyptian lotus",
+        "cities": ["Cairo", "Alexandria", "Port Said", "Suez", 	"Luxor"]
+    },
+        
+    {
+        "index":5,
+        "name":"Burkina Faso",
+        "code":"BF",
+        "capital":"Ouagadougou",
+        "image":"burkinaFaso.jpg",
+        "animal":"White Stallion",
+        "flower":"No",
+        "cities": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou", "Ouahigouya", "Banfora"]
+    },
+    
+    {
+        "index":6,
+        "name":"Somalia",
+        "code":"SO",
+        "capital":"Mogadishu",
+        "image":"somalia.jpg",
+        "animal":"Leopard",
+        "flower":"No",
+        "cities": ["Mogadishu", "Hargeisa", "Bosaso", "Galkayo", "Borama"]
+    },
+    
+    
+        {
+        "index":7,
+        "name":"Madagascar",
+        "code":"MG",
+        "capital":"Antananarivo",
+        "image":"madagascar.jpg",
+        "animal":"Ring-tailed lemur",
+        "flower":"Poinciana",
+        "cities": ["Antananarivo", "Toamasina", "Antsirabe", "Mahajanga", "Fianarantsoa"]
+    },
+        
+    {
+        "index":8,
+        "name":"Ethiopia",
+        "code":"ET",
+        "capital":"Addis Ababa",
+        "image":"ethiopia.jpg",
+        "animal":"Lion",
+        "flower":"Calla Lily",
+        "cities": ["Addis Ababa", "Adama", "Gondar", "Mek'ele", "Hawassa"]
+    },
+        
+    {
+        "index":9,
+        "name":"Tanzania",
+        "code":"TZ",
+        "capital":"Dodoma",
+        "image":"tanzania.jpg",
+        "animal":"Giraffe",
+        "flower":"No",
+        "cities": ["Dar es Salaam", "Mwanza", "Arusha", "Dodoma", "Mbeya"]
+    },
+        
+    {
+        "index":10,
+        "name":"Chad",
+        "code":"TD",
+        "capital":"N'Djamena",
+        "image":"chad.jpg",
+        "animal":"Goat",
+        "flower":"No",
+        "cities": ["N'Djamena", "Moundou", "Sarh", "Abéché", "Kélo"]
+    },
+        
+    {
+        "index":11,
+        "name":"Mozambique",
+        "code":"MZ",
+        "capital":"Maputo",
+        "image":"mozambique.jpg",
+        "animal":"African elephant",
+        "flower":"No",
+        "cities": ["Maputo", "Matola", "Beira", "Nampula", "Chimoio"]
+    },
+        
+    {
+        "index":12,
+        "name":"South Africa",
+        "code":"ZA",
+        "capital":"Pretoria",
+        "image":"southAfrica.jpg",
+        "animal":"Springbok",
+        "flower":"King Protea",
+        "cities": ["Johannesburg", "Cape Town", "Ekurhuleni", "Pretoria", "Tshwane"]
+    },
+        
+    {
+        "index":13,
+        "name":"Namibia",
+        "code":"NA",
+        "capital":"Windhoek",
+        "image":"namibia.jpg",
+        "animal":"Oryx",
+        "flower":"Welwitschia",
+        "cities": ["Windhoek", "Walvis Bay", "Rundu", "Swakopmund", "Oshakati"]
+    },
+        
+    {
+        "index":14,
+        "name":"Rwanda",
+        "code":"RW",
+        "capital":"Kigali",
+        "image":"rwanda.jpg",
+        "animal":"African Leopard",
+        "flower":"No",
+        "cities": ["Kigali", "Butare", "Gitarama", "Ruhengeri", "Gisenyi"]
+    }
+  ]
+}

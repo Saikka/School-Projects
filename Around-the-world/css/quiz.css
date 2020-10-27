@@ -1,0 +1,173 @@
+body {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    color: darkblue;
+    background-color: aliceblue;
+}
+
+#page {
+    width: 65%;
+    height: 100vh;
+    margin-left: 20%;
+}
+
+.img {
+    width: 200px;
+    height: 150px;
+}
+
+#flag {
+    width: 180px;
+    height: 130px;
+}
+
+#head {
+    height: 100px;
+    margin-left: 20%;
+}
+
+h1  {
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0;
+    color: darkblue;
+}
+
+p {
+    text-align: center;
+}
+
+
+
+#glob {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+nav ul {
+    height: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+nav li {
+    display: inline-block;
+    height: 100%;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+nav a {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    color: white;
+    height: 100%;
+    text-decoration: none;
+}
+
+nav a:hover, #nav a:active {
+    background-color: deepskyblue;
+}
+
+#left {
+    float: left;
+    width: 15%;
+    background-color: white;
+    border: 1px solid darkblue;
+    box-shadow: 2px 2px 2px darkblue;
+    padding: 5px;
+    margin-right: 5%;
+}
+
+
+#right {
+    float: left;
+    width: 70%; 
+    background-color: white;
+    border: 1px solid darkblue;
+    box-shadow: 2px 2px 2px darkblue;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#buttons {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+}
+
+#next {
+    float: right;
+}
+
+#exit {
+    float: left;
+}
+
+#span {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 80px;
+    height: 30px;
+    border-radius: 12px;
+    border: 2px solid darkblue;
+    background-color: lightcyan;
+    color: darkblue;
+    font-size: 16px;
+    margin-top: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.btn:hover {
+    color: white;
+    background-color: deepskyblue;
+}
+
+select {
+    color: darkblue;
+    border: 2px solid darkblue;
+    width: 70px;
+}
+
+#pr {
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

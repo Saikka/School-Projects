@@ -1,0 +1,66 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+}
+
+#page {
+    width: 60%;
+    color: darkblue;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid darkblue;
+    box-shadow: 2px 2px 2px darkblue;
+}
+
+h1 {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    margin:0;
+    border: 2px solid white;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    display: none;
+
+}
+
+h4 {
+    display: none;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    font-weight: normal;
+}
+
+p {
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+img {
+    display: block;
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid darkblue;
+    display: none;
+}
+
+.sql {
+    text-align: center;
+}
+
+ul {
+    display: none;
+}
+
+#tk {
+    width: 700px;
+}

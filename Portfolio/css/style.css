@@ -1,0 +1,413 @@
+body {
+    font-family: 'Itim';
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#page {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background-color: #1A120A;
+    overflow: auto;
+    float: left;
+}
+
+#right {
+    /*height: 100vh;*/
+    width: 300px;
+    float: left;
+    margin: 0;
+    color: #DEB56E;
+}
+
+#left {
+    float: left;
+    background-image:url(../pictures/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+.minipage {
+    float: left;
+    display: none;
+    width: 100%;
+    margin: 0;
+}
+
+#home {
+    display: block;
+    height: auto;
+}
+
+#top {
+    height: 150px;
+    float:left;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+#name {
+    float: left;
+    width: 240px;
+    height: 160px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+h1 {
+    display: block;
+    float: left;
+    color: #1A120A;
+    font-size: 3em;
+    margin: 0;
+}
+
+#logo {
+    width: 200px;
+    height: 150px;
+    display: block;
+    float: left;
+    margin: 10px;
+}
+
+#mypic {
+    width: 180px;
+    height: 200px;
+	display: block;
+}
+
+#info {
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+h2 {
+    font-size: 2em;
+    margin: 0;
+    color: #a8290c;
+}
+
+h4 {
+    display: block;
+    width: 90%;
+    float: left;
+    margin: 5px 0 5px 5%;
+    font-size: 1.5em;
+}
+
+h3 {
+    float: right;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 20px 0 20px 0;
+    width: 320px;
+    height: 35px;
+    background-color: #B60E0E;
+    color: #DEB56E;
+}
+
+p {
+    display: block;
+    float: left;
+    font-size: 1.5em;
+    margin: 0 0 0 5%;
+    width: 95%;
+}
+
+#info p {
+    font-size: 1.5em;
+    float: left;
+    display: block;
+    max-width: 400px;
+    margin: 0;
+}
+
+table {
+    width: 95%;
+    margin: 10px 0 10px 5%;
+    font-size: 1.5em;
+}
+
+.date {
+    width: 150px;
+}
+
+#onedate {
+    width: 280px;
+}
+
+#skills table {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#skills table tr td {
+    text-align: center;
+}
+
+#resume tr td {
+	padding-top: 10px; 
+	padding-bottom:10px
+}
+
+#projectmenu {
+    margin-left: 7.5%;
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#oneprj {
+    display: none;
+}
+
+#project {
+    display: none;
+    align-items: flex-start;
+    width: 90%;
+    margin-left: 5%;
+    float: left;
+}
+
+#mini {
+    width: 310px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.proimg {
+    float: left;
+    border: solid #D87223 2px;
+    margin: 20px;
+    width: 125px;
+    height: 150px;
+}
+
+.imgmini {
+    width: 50px;
+    height: 50px;
+    float: left;
+    border: solid #D87223 2px;
+    margin: 5px;
+}
+
+#proimgdes {
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#proimgdes p {
+    display: block;
+}
+
+#singlePRJimg {
+    margin: 5px;
+    float: left;
+    border: solid #D87223 2px;
+}
+
+#descicons {
+    display: flex;
+    flex-direction: column;
+}
+
+#icons {
+    margin-left: 15px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.icon2 {
+    width: 30px;
+    height: 30px;
+    display: none;
+    float: right;
+    margin: 3px 5px 0 0;
+    
+}
+
+#icon1 {
+    display: block;
+}
+
+#git, #folder {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+
+h5 {
+    font-size: 1.5em;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    margin: 5px;
+}
+
+#links  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+    
+}
+
+#links img {
+
+}
+
+#skills p {
+	text-align: center;
+}
+
+#a1, #a5:link {
+    background-color: #B60E0E;
+}
+
+
+@media screen and (min-width: 1000px) {
+	
+	#left {
+		width: 700px;
+		height: 100vh;
+		min-height: 750px;
+	}
+    
+    #right {
+        height: 100vh;
+		min-height: 700px;
+    }
+	
+    nav {
+        width: 250px;
+        float: left;
+        
+    }
+    
+    a {
+        display: block;
+        color: #DEB56E;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 2em;
+        text-align: left;
+        text-decoration: none;
+    }
+    
+    #nav1 {
+        display: none;
+    }
+	
+	#contacts {
+		float: left;
+		width: 250px;
+		margin-top: 60vh;
+	}
+	
+	#contacts2 {
+		display: none;
+	}
+	
+	#mypic {
+		margin-right: 30px;
+        margin-left: 30px;
+		float: left;
+	}
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+	
+	#left {
+		width: 700px;
+		height: 100vh;
+		min-height: 900px;
+	}
+	
+	#mypic {
+		margin-right: 30px;
+		float: left;
+	}
+	
+    nav {
+        width: 700px;
+    }
+    
+    a {
+        display: block;
+        float: left;
+        color: #DEB56E;
+        width: 175px;
+        margin: 0;
+        font-size: 2em;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    #right {
+        display: none;
+    }
+	
+	#contacts2 {
+		float: left;
+		width: 100%;
+		color: #DEB56E;
+	}
+	
+	#contacts2 p {
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	
+	#mypic {
+		margin-left:auto;
+		margin-right: auto;
+	}
+	
+	#left {
+		max-width: 700px;
+		height: 100vh;
+		min-height: 1400px;
+	}
+	
+    nav {
+        max-width: 700px;
+    }
+    
+	a {
+        display: block;
+        float: left;
+        color: #DEB56E;
+        width: 100%;
+        margin: 0;
+        font-size: 2em;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    #right {
+        display: none;
+    }
+	
+	#contacts2 {
+		float: left;
+		width: 100%;
+		color: #DEB56E;
+	}
+	
+	#contacts2 p {
+		text-align: center;
+	}
+}

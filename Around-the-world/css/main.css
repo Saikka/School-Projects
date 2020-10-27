@@ -1,0 +1,118 @@
+body {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    color: darkblue;
+    background-color:aliceblue;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    display: inline-block;
+}
+
+h1  {
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0;
+    color: darkblue;
+}
+
+#page {
+    width: 60%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+#head {
+    height: 100px;
+    margin-left: 20%;
+}
+
+#glob {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+    background-color: darkblue;
+    margin-bottom: 70px;
+}
+
+nav ul {
+    height: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+nav li {
+    display: inline-block;
+    height: 100%;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+nav a {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    color: white;
+    height: 100%;
+    text-decoration: none;
+}
+
+nav a:hover, #nav a:active {
+    background-color: deepskyblue;
+}
+
+#left {
+    float: left;
+    width: 350px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid darkblue;
+    box-shadow: 2px 2px 2px darkblue;
+}
+
+#in {
+    text-align: center;
+}
+
+#right {
+    float: left;
+    margin-left: 5%;
+    max-width: 40%;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid darkblue;
+    box-shadow: 2px 2px 2px darkblue;
+}
+
+#scores table {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#report {
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: darkblue;
+}

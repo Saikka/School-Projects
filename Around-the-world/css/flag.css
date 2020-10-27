@@ -1,0 +1,121 @@
+body {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    color: darkblue;
+    background-color:aliceblue;
+}
+
+#page {
+    width: 50%;
+    background-color:aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+#head {
+    height: 100px;
+    margin-left: 20%;
+}
+
+h1  {
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0;
+    color: darkblue;
+}
+
+#glob {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+    background-color: darkblue;
+    margin-bottom: 70px;
+}
+
+nav ul {
+    height: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+nav li {
+    display: inline-block;
+    height: 100%;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+nav a {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    color: white;
+    height: 100%;
+    text-decoration: none;
+}
+
+nav a:hover, #nav a:active {
+    background-color: deepskyblue;
+}
+
+
+#page {
+    width: 100%;
+}
+
+#note {
+    float: left;
+    width: 400px;
+    padding-left: 50px;
+}
+
+#root {
+    float: left;
+    margin-left: 200px;
+    width: 400px;
+    height: 250px;
+}
+
+#canvas {
+    margin: 0;
+    padding: 0;
+}
+
+
+button {
+    width: 80px;
+    height: 30px;
+    border-radius: 12px;
+    border: 2px solid darkblue;
+    background-color: lightcyan;
+    color: darkblue;
+    font-size: 16px;
+    margin: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover {
+    color: white;
+    background-color: deepskyblue;
+}
+
+
+
+
+
+
+
